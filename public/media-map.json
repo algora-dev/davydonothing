@@ -1,0 +1,302 @@
+[
+  {
+    "url": "https://static.wixstatic.com/media/a73a36_1eca977d89fe42fa917f5ab4072597f7~mv2.png/v1/fill/w_244,h_125,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/BlackNoBG.png",
+    "alt": "BlackNoBG.png",
+    "localPath": "assets/images/8f556e5fe83c0607.png",
+    "bytes": 12392
+  },
+  {
+    "url": "https://static.wixstatic.com/media/11062b_8dcadfa428954b1d919f8499f75aa27a~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_8dcadfa428954b1d919f8499f75aa27a~mv2.png",
+    "alt": "Youtube",
+    "localPath": "assets/images/f7150c3522783060.png",
+    "bytes": 1371
+  },
+  {
+    "url": "https://static.wixstatic.com/media/11062b_b08fccde70ca4f7a88b3e4c3a19246eb~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_b08fccde70ca4f7a88b3e4c3a19246eb~mv2.png",
+    "alt": "X   ",
+    "localPath": "assets/images/78c6894540775e85.png",
+    "bytes": 1683
+  },
+  {
+    "url": "https://static.wixstatic.com/media/11062b_7d5d4489e32641f2a91e774bf311ede1~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_7d5d4489e32641f2a91e774bf311ede1~mv2.png",
+    "alt": "Telegram ",
+    "localPath": "assets/images/67da033f07ae3587.png",
+    "bytes": 2726
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_c5eefc6470374a47a6b92c35f77aeadd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2f7ad0_c5eefc6470374a47a6b92c35f77aeadd~mv2.png",
+    "alt": "Element logo",
+    "localPath": "assets/images/e0a849ba96b0b92d.png",
+    "bytes": 4726
+  },
+  {
+    "url": "https://static.wixstatic.com/media/a73a36_14f3fbd8883547c584da274a1f973233~mv2.png/v1/fill/w_1440,h_760,fp_0.67_0.23,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/a73a36_14f3fbd8883547c584da274a1f973233~mv2.png",
+    "alt": "Cave.png",
+    "localPath": "assets/images/2bd3a1d4fbde9a85.png",
+    "bytes": 798588
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_11b5301de1f04bd0a8e158486b3a5c03~mv2.png/v1/crop/x_0,y_228,w_1920,h_637/fill/w_225,h_75,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Exponent%20wallet%20checker.png",
+    "alt": "Exponent wallet checker.png",
+    "localPath": "assets/images/7628f131061b94b8.png",
+    "bytes": 27825
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_70b0c8f32c60453e9426b26d3232da6d~mv2.png/v1/crop/x_0,y_228,w_1920,h_625/fill/w_221,h_71,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Buy%20PPB.png",
+    "alt": "Buy PPB.png",
+    "localPath": "assets/images/a1521ffdc946ef3d.png",
+    "bytes": 23724
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_a7a449f8eee049f09b497fc9267546ca~mv2.png/v1/crop/x_0,y_224,w_1920,h_645/fill/w_221,h_73,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Buy%20Brotato.png",
+    "alt": "Buy Brotato.png",
+    "localPath": "assets/images/781ec0de70ef74c1.png",
+    "bytes": 23676
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_15a60a772f76484da2741a315b873d6d~mv2.png/v1/fill/w_221,h_71,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Farm%20Brotatoes.png",
+    "alt": "Farm Brotatoes.png",
+    "localPath": "assets/images/2f1bdd22f9634c1c.png",
+    "bytes": 22921
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_6f81c7e6507246aeb7451245702c0a29~mv2.png/v1/crop/x_0,y_238,w_1920,h_608/fill/w_221,h_70,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1.png",
+    "alt": "1.png",
+    "localPath": "assets/images/98196a9bbdb0d93b.png",
+    "bytes": 21813
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_ff15bdcc959f4beabdebc814125719f6~mv2.png/v1/crop/x_0,y_234,w_1920,h_625/fill/w_225,h_73,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Buy%20raffle%20ticket.png",
+    "alt": "Buy raffle ticket.png",
+    "localPath": "assets/images/62c56c8919703d6b.png",
+    "bytes": 24100
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_a6f29609e4664a27bd7a3b61a91ee763~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Davy's%20list.png",
+    "alt": "Davy's list.png",
+    "localPath": "assets/images/7dc66d64bec3bc68.png",
+    "bytes": 6634
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_56b68b523c324452ad4bbe0bf758d5d7~mv2.png/v1/fill/w_49,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Wallet%20Checker.png",
+    "alt": "Wallet Checker.png",
+    "localPath": "assets/images/ce064e4cf1b387e2.png",
+    "bytes": 1154
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_2d9300e784a54322b881f4f300863cd2~mv2.png/v1/fill/w_49,h_64,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/DevlanBald_edited.png",
+    "alt": "DevlanBald_edited.png",
+    "localPath": "assets/images/0c7eeca179d357f5.png",
+    "bytes": 8840
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_4c182a24d47d4da5b04dcb2f185e9f7e~mv2.png/v1/crop/x_0,y_210,w_1920,h_680/fill/w_49,h_17,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Vote%20here.png",
+    "alt": "Vote here.png",
+    "localPath": "assets/images/63f13a24e3656351.png",
+    "bytes": 2961
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_c73d1acbaedf4b0d8c681f042394aee2f000.jpg/v1/fill/w_51,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/2f7ad0_c73d1acbaedf4b0d8c681f042394aee2f000.jpg",
+    "alt": "",
+    "localPath": "assets/images/d32e2f59af8c0652.jpg",
+    "bytes": 1418
+  },
+  {
+    "url": "https://static.wixstatic.com/media/a73a36_9329e0e7713b4d8db98beb7c9ec9ba97~mv2.png/v1/fill/w_1440,h_698,fp_0.40_0.50,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/a73a36_9329e0e7713b4d8db98beb7c9ec9ba97~mv2.png",
+    "alt": "4 with ground.png",
+    "localPath": "assets/images/d51d453196d35809.png",
+    "bytes": 438255
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_614b5344e02a4fe7a4e91ad6ef3a80e2~mv2.png/v1/crop/x_0,y_50,w_1920,h_1028/fill/w_518,h_278,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vibes.png",
+    "alt": "Vibes.png",
+    "localPath": "assets/images/54082e7dc3744baa.png",
+    "bytes": 74486
+  },
+  {
+    "url": "https://static.wixstatic.com/media/a73a36_049b8b534eb745dcad40bd43dca97230~mv2.png/v1/fill/w_1440,h_678,fp_0.72_0.34,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/a73a36_049b8b534eb745dcad40bd43dca97230~mv2.png",
+    "alt": "3.png",
+    "localPath": "assets/images/0b1161c62c6f4d02.png",
+    "bytes": 414070
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_946348f66c9740938e23d7601ec161ac~mv2.png/v1/fill/w_1440,h_758,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2f7ad0_946348f66c9740938e23d7601ec161ac~mv2.png",
+    "alt": "Background D.png",
+    "localPath": "assets/images/a4a6da894c2ec0d1.png",
+    "bytes": 603411
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_534dec4fd2ba4303887d77c2eccc139a~mv2.png/v1/fill/w_1125,h_422,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Trait%20chart%20trans.png",
+    "alt": "Trait chart trans.png",
+    "localPath": "assets/images/4f95aab4b15b61bf.png",
+    "bytes": 211363
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_12caf57ad94d485c9fb7cc753f32a500~mv2.png/v1/crop/x_0,y_197,w_1920,h_696/fill/w_298,h_108,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Buy%20here.png",
+    "alt": "Buy here.png",
+    "localPath": "assets/images/627bbd1f8e4edf0a.png",
+    "bytes": 39941
+  },
+  {
+    "url": "https://static.wixstatic.com/media/a73a36_1e481b5b4f5a4f38aa3461c3976dd2a5~mv2.png/v1/fill/w_237,h_85,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/RoadmapButton.png",
+    "alt": "RoadmapButton.png",
+    "localPath": "assets/images/730af53b5222fc58.png",
+    "bytes": 23716
+  },
+  {
+    "url": "https://static.wixstatic.com/media/a73a36_ae2be15e50ad4302a8fe308a58135263~mv2.png/v1/fill/w_105,h_102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Complete.png",
+    "alt": "Complete.png",
+    "localPath": "assets/images/9e7e679397a98150.png",
+    "bytes": 22511
+  },
+  {
+    "url": "https://static.wixstatic.com/media/a73a36_1eca977d89fe42fa917f5ab4072597f7~mv2.png/v1/fill/w_1080,h_1080,al_c/a73a36_1eca977d89fe42fa917f5ab4072597f7~mv2.png",
+    "alt": "Open Graph image",
+    "localPath": "assets/images/72113bd717959a20.png",
+    "bytes": 42802
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_2d1ffbb2b764483ea6cd2f1014e72a6d~mv2.png/v1/crop/x_0,y_167,w_1500,h_153/fill/w_1076,h_109,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Taterz%20leaderboard.png",
+    "alt": "Taterz leaderboard.png",
+    "localPath": "assets/images/4c7c704a52c867b0.png",
+    "bytes": 44687
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_b9122bd6140b4d72b5258f11d3e50816~mv2.png/v1/fill/w_1440,h_933,fp_0.61_0.44,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2f7ad0_b9122bd6140b4d72b5258f11d3e50816~mv2.png",
+    "alt": "3.png",
+    "localPath": "assets/images/d71959ca8aa5f442.png",
+    "bytes": 473105
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_0a5a580cf7b14ecaa376edb069aa074c~mv2.png/v1/fill/w_1920,h_1080,al_c/2f7ad0_0a5a580cf7b14ecaa376edb069aa074c~mv2.png",
+    "alt": "Open Graph image",
+    "localPath": "assets/images/db021e32f14e6f91.png",
+    "bytes": 480585
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_3df384b8e9fc44e2902202b7057d5534~mv2.png/v1/fill/w_1440,h_965,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2f7ad0_3df384b8e9fc44e2902202b7057d5534~mv2.png",
+    "alt": "Wall.png",
+    "localPath": "assets/images/344f2f56d0911acc.png",
+    "bytes": 1829360
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_bab8d0d365d042eeacc731dfcd9c636a~mv2.png/v1/crop/x_0,y_10,w_512,h_461/fill/w_453,h_408,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SamCrow.png",
+    "alt": "SamCrow.png",
+    "localPath": "assets/images/35c798b7b76f54ce.png",
+    "bytes": 158839
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_9619d8ce958a477aace57af1ba65d7fb~mv2.png/v1/crop/x_0,y_8,w_512,h_461/fill/w_453,h_408,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Hazel%20PWOF%20image.png",
+    "alt": "Hazel PWOF image.png",
+    "localPath": "assets/images/3310bf46ed57ed37.png",
+    "bytes": 201751
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_dcb999b53f1047ba9e316064130256d0~mv2.png/v1/crop/x_0,y_23,w_1152,h_1037/fill/w_453,h_408,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PWOF%20-%20Brainloser.png",
+    "alt": "PWOF - Brainloser.png",
+    "localPath": "assets/images/6409f02e3e75be00.png",
+    "bytes": 312486
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_4a135e090d8749ec9d2ef81c9ff37307~mv2.png/v1/fill/w_1261,h_389,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/PWOF.png",
+    "alt": "PWOF.png",
+    "localPath": "assets/images/fa74bf7b403edea9.png",
+    "bytes": 222787
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_6a9025fa42fb4869b358a08e60deca44~mv2.png/v1/crop/x_0,y_169,w_1500,h_212/fill/w_922,h_130,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Taterz%20shop.png",
+    "alt": "Taterz shop.png",
+    "localPath": "assets/images/babff49dd3df5429.png",
+    "bytes": 36752
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_3df384b8e9fc44e2902202b7057d5534~mv2.png/v1/fill/w_1440,h_976,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2f7ad0_3df384b8e9fc44e2902202b7057d5534~mv2.png",
+    "alt": "Wall.png",
+    "localPath": "assets/images/a74b9e08ca67e1d2.png",
+    "bytes": 1855581
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_f162aebf7eef482cb25c4f137fcb3b0d~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Davy%20stuff.png",
+    "alt": "Davy stuff.png",
+    "localPath": "assets/images/59e065b0c0a4cfcc.png",
+    "bytes": 5058
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_fb28a0d917554f109926e5cd8555021e~mv2.gif",
+    "alt": "Mashed-peeled.gif",
+    "localPath": "assets/images/165439103326331f.gif",
+    "bytes": 5380315
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_e5f7df639ebf464f88c30f8cc4edf75d~mv2.png/v1/fill/w_354,h_354,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PPB%2016.png",
+    "alt": "PPB 16.png",
+    "localPath": "assets/images/881fca98c42ca7a6.png",
+    "bytes": 151649
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_9badcc7799234b3fb0294526587f66a2~mv2.png/v1/fill/w_354,h_354,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Img%2055.png",
+    "alt": "Img 55.png",
+    "localPath": "assets/images/572ad035e4fd7e56.png",
+    "bytes": 221196
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_12caf57ad94d485c9fb7cc753f32a500~mv2.png/v1/crop/x_0,y_172,w_1920,h_741/fill/w_338,h_130,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Buy%20here.png",
+    "alt": "Buy here.png",
+    "localPath": "assets/images/ade209a84d0a92ce.png",
+    "bytes": 48843
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_00aececf82944ffe8c1d043907481858~mv2.png/v1/fill/w_1156,h_109,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Exponent_edited.png",
+    "alt": "Exponent_edited.png",
+    "localPath": "assets/images/a37291f52ec794d8.png",
+    "bytes": 41457
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_36c437d286a644d7be3d05bc51f73eef~mv2.png/v1/fill/w_1440,h_875,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2f7ad0_36c437d286a644d7be3d05bc51f73eef~mv2.png",
+    "alt": "ChatGPT Image Dec 31, 2025, 03_40_19 PM.png",
+    "localPath": "assets/images/636d897173a612d6.png",
+    "bytes": 2002891
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_3df384b8e9fc44e2902202b7057d5534~mv2.png/v1/fill/w_1196,h_1024,al_c,q_90,enc_avif,quality_auto/2f7ad0_3df384b8e9fc44e2902202b7057d5534~mv2.png",
+    "alt": "Wall.png",
+    "localPath": "assets/images/406c6d57571d0ebb.png",
+    "bytes": 1607795
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_9533ebde4bca49fb9e07ef1065e3839d~mv2.png/v1/fill/w_937,h_527,al_c,q_90,usm_0.33_1.00_0.00,enc_avif,quality_auto/2f7ad0_9533ebde4bca49fb9e07ef1065e3839d~mv2.png",
+    "alt": "",
+    "localPath": "assets/images/465de12e79c82303.png",
+    "bytes": 793289
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_ff15bdcc959f4beabdebc814125719f6~mv2.png/v1/fill/w_449,h_145,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Buy%20raffle%20ticket.png",
+    "alt": "Buy raffle ticket.png",
+    "localPath": "assets/images/d4fed6ead8a18252.png",
+    "bytes": 67929
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_9533ebde4bca49fb9e07ef1065e3839d~mv2.png/v1/fill/w_1920,h_1080,al_c/2f7ad0_9533ebde4bca49fb9e07ef1065e3839d~mv2.png",
+    "alt": "Open Graph image",
+    "localPath": "assets/images/ffca6e2445eb2dce.png",
+    "bytes": 3097271
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_3df384b8e9fc44e2902202b7057d5534~mv2.png/v1/fill/w_1440,h_983,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2f7ad0_3df384b8e9fc44e2902202b7057d5534~mv2.png",
+    "alt": "Wall.png",
+    "localPath": "assets/images/fc656f065ebcf3d3.png",
+    "bytes": 1868453
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_15a60a772f76484da2741a315b873d6d~mv2.png/v1/fill/w_449,h_145,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Farm%20Brotatoes.png",
+    "alt": "Farm Brotatoes.png",
+    "localPath": "assets/images/8a9191cc2592686a.png",
+    "bytes": 55490
+  },
+  {
+    "url": "https://static.wixstatic.com/media/2f7ad0_735b0e80c0874c869800cfed75bb2520f000.jpg/v1/fill/w_1067,h_582,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/2f7ad0_735b0e80c0874c869800cfed75bb2520f000.jpg",
+    "alt": "",
+    "localPath": "assets/images/ad0c0a11850ca8e5.jpg",
+    "bytes": 66705
+  }
+]

@@ -20,8 +20,7 @@ export default function Header() {
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-5">
         <Link href="/" className="flex items-center gap-2.5">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/media/images/8f556e5fe83c0607.png" alt="Davy Do Nothing logo" className="h-10 w-10 object-contain" />
-          <span className="font-display text-lg leading-none tracking-wide md:text-xl">Davy Do Nothing</span>
+          <img src="/media/images/8f556e5fe83c0607.png" alt="Davy Do Nothing" className="h-10 w-10 object-contain" />
         </Link>
 
         <nav className="hidden items-center gap-1 md:flex" aria-label="Main">

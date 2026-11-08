@@ -8,8 +8,7 @@ export default function Footer() {
         <div className="flex flex-col items-center gap-8 text-center md:flex-row md:justify-between md:text-left">
           <div className="flex items-center gap-2.5">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/media/images/8f556e5fe83c0607.png" alt="Davy Do Nothing logo" className="h-10 w-10 object-contain" />
-            <span className="font-display text-lg leading-none">Davy Do Nothing</span>
+            <img src="/media/images/8f556e5fe83c0607.png" alt="Davy Do Nothing" className="h-10 w-10 object-contain" />
           </div>
           <nav className="flex flex-wrap items-center justify-center gap-2" aria-label="Footer">
             <a href={SITE.telegram} target="_blank" rel="noopener noreferrer" className="btn-pill bg-white text-sm hover:bg-ice">
@@ -38,7 +37,7 @@ export default function Footer() {
             ))}
           </div>
         </div>
-        <p className="mt-10 text-center text-xs font-bold uppercase tracking-widest text-ink/60">Copyright © 2025 Davy Do Nothing</p>
+        <p className="mt-10 text-center text-xs font-bold uppercase tracking-widest text-ink/60">Copyright © 2026 Davy Do Nothing</p>
       </div>
     </footer>
   );

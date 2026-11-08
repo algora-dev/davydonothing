@@ -13,11 +13,9 @@ const ART = {
   explorer: "/media/images/d51d453196d35809.png",
   floe: "/media/images/0b1161c62c6f4d02.png",
   field: "/media/images/a4a6da894c2ec0d1.png",
-  chart: "/media/images/4f95aab4b15b61bf.png",
   check: "/media/images/9e7e679397a98150.png",
   roadBtn: "/media/images/730af53b5222fc58.png",
   buyHere: "/media/images/627bbd1f8e4edf0a.png",
-  potato: "/media/images/165439103326331f.gif",
   wall: "/media/images/344f2f56d0911acc.png",
 };
 
@@ -47,7 +45,7 @@ export default function HomePage() {
     <>
       {/* Hero: ice cave scene + comic headline */}
       <section className="border-b-2 border-ink">
-        <div className="relative aspect-[4/3] w-full md:aspect-[2.25/1]">
+        <div className="relative aspect-[16/10] w-full md:aspect-[3/1]">
           <Image
             src={ART.cave}
             alt="Davy the polar bear at his ice cave"
@@ -97,7 +95,7 @@ export default function HomePage() {
       {/* Movement: bear explorer scene + crossed-out joke copy */}
       <section className="border-b-2 border-ink">
         <div className="relative">
-          <div className="relative aspect-[4/3] w-full md:aspect-[2.25/1]">
+          <div className="relative aspect-[16/10] w-full md:aspect-[3/1]">
             <Image
               src={ART.explorer}
               alt="Davy the explorer with a potato and staff"
@@ -127,7 +125,7 @@ export default function HomePage() {
       {/* Takeover: bear on ice floe + copy */}
       <section className="border-b-2 border-ink">
         <div className="relative">
-          <div className="relative aspect-[4/3] w-full md:aspect-[2.25/1]">
+          <div className="relative aspect-[16/10] w-full md:aspect-[3/1]">
             <Image
               src={ART.floe}
               alt="Davy doing nothing on an ice floe with his potatoes"
@@ -146,35 +144,9 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Trait chart */}
-      <section className="border-b-2 border-ink bg-ice/30 pt-12 md:pt-16">
-        <div className="mx-auto max-w-5xl px-5">
-          <div className="flex items-center justify-center gap-3 md:gap-5">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={ART.potato} alt="A dancing DN Brotato" className="h-12 w-12 -rotate-6 md:h-20 md:w-20" loading="lazy" />
-            <h2 className="text-center font-display text-2xl md:text-5xl">Trait chart</h2>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={ART.potato} alt="A dancing DN Brotato" className="h-12 w-12 rotate-6 md:h-20 md:w-20" loading="lazy" />
-          </div>
-          <div className="card-comic mt-8 bg-white p-3">
-            <Image
-              src={ART.chart}
-              alt="DN Brotatoes trait chart"
-              width={1200}
-              height={675}
-              className="h-auto w-full"
-              sizes="(max-width: 900px) 100vw, 900px"
-            />
-          </div>
-          <p className="mx-auto mb-10 mt-6 max-w-2xl text-center font-display text-xs leading-relaxed md:mb-14 md:text-base">
-            Note: you need at least one sunglasses trait in your row to qualify. No need to have them all!
-          </p>
-        </div>
-      </section>
-
       {/* Snow field + Buy here */}
       <section className="border-b-2 border-ink">
-        <div className="relative aspect-video w-full">
+        <div className="relative aspect-[16/7] w-full md:aspect-[21/9]">
           <Image src={ART.field} alt="Davy's snowy farm with the igloo" fill className="object-cover" sizes="100vw" />
           <div className="absolute inset-x-0 bottom-5 flex justify-center px-4 md:bottom-10">
             <a
@@ -189,29 +161,29 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Roadmap: compact vertical list on light background */}
+      {/* Roadmap: compact stacked vertical list */}
       <section className="border-b-2 border-ink bg-ice/30">
-        <div className="mx-auto max-w-xl px-5 py-12 md:py-16">
-          <h2 className="text-center font-display text-3xl md:text-5xl">Davy&apos;s roadmap</h2>
-          <div className="mt-6 space-y-1 md:mt-8 md:space-y-1.5">
+        <div className="mx-auto max-w-xl px-5 py-8 md:py-10">
+          <h2 className="text-center font-display text-2xl md:text-4xl">Davy&apos;s roadmap</h2>
+          <div className="mt-3 space-y-0.5 md:mt-4 md:space-y-1">
             {ROADMAP.map((r) => (
-              <div key={r.phase} className="grid grid-cols-[70px_1fr_44px] items-center gap-2 md:grid-cols-[86px_1fr_56px] md:gap-3">
+              <div key={r.phase} className="grid grid-cols-[64px_1fr_36px] items-center gap-2 md:grid-cols-[86px_1fr_52px] md:gap-3">
                 <span
-                  className={`text-right font-display text-xs md:text-base ${
+                  className={`text-right font-display text-[11px] md:text-base ${
                     r.done ? "text-ice-deep underline decoration-2 underline-offset-4" : "text-ink/50"
                   }`}
                 >
                   phase {r.phase}
                 </span>
-                <div className="relative mx-auto aspect-square h-16 w-16 md:h-24 md:w-24">
-                  <Image src={ART.roadBtn} alt="" fill className="object-contain" sizes="96px" />
-                  <span className="absolute inset-0 flex items-center justify-center px-2 text-center font-display text-[8px] uppercase leading-tight text-ink md:px-3 md:text-[11px]">
+                <div className="relative mx-auto aspect-square h-12 w-12 md:h-14 md:w-14">
+                  <Image src={ART.roadBtn} alt="" fill className="object-contain" sizes="64px" />
+                  <span className="absolute inset-0 flex items-center justify-center px-1.5 text-center font-display text-[7px] uppercase leading-tight text-ink md:px-2 md:text-[10px]">
                     {r.label}
                   </span>
                 </div>
                 {r.done ? (
-                  <div className="relative h-8 w-8 md:h-11 md:w-11">
-                    <Image src={ART.check} alt="Complete" fill className="object-contain" sizes="44px" />
+                  <div className="relative h-7 w-7 md:h-10 md:w-10">
+                    <Image src={ART.check} alt="Complete" fill className="object-contain" sizes="40px" />
                   </div>
                 ) : (
                   <span aria-hidden />
@@ -219,9 +191,6 @@ export default function HomePage() {
               </div>
             ))}
           </div>
-          <p className="card-comic mx-auto mt-8 max-w-lg -rotate-1 bg-white px-6 py-4 text-center font-display text-lg leading-snug md:mt-10 md:text-2xl">
-            Davy has a few things planned to take over web3... are you in?
-          </p>
         </div>
       </section>
     </>

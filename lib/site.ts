@@ -4,6 +4,8 @@ export const SITE = {
   raffleContract: "0x6420BDe0857DD44dFa249DDabdcc3c7AB850E4D8",
   telegram: "https://t.me/potatopalace",
   telegramChat: "https://t.me/+inkKLQdVK1RmYWZk",
+  farming: "https://dnbfarming.davydonothing.com/",
+  exponentChecker: "https://www.davydonothing.com/exponentleaderboard",
   socials: [
     { name: "Telegram", href: "https://t.me/potatopalace", icon: "/media/images/67da033f07ae3587.png" },
     { name: "X", href: "https://x.com/davydonothing", icon: "/media/images/78c6894540775e85.png" },

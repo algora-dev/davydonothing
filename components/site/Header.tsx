@@ -8,8 +8,6 @@ const NAV = [
   { label: "Home", href: "/" },
   { label: "Shop", href: "/shop" },
   { label: "Farm", href: "/farm" },
-  { label: "Raffle", href: "/raffleticket" },
-  { label: "PWOF", href: "/pwof" },
 ];
 
 export default function Header() {
@@ -17,10 +15,10 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-50 border-b-2 border-ink bg-cream/95 backdrop-blur">
-      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-5">
+      <div className="mx-auto flex h-20 max-w-6xl items-center justify-between px-5">
         <Link href="/" className="flex items-center gap-2.5">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/media/images/8f556e5fe83c0607.png" alt="Davy Do Nothing" className="h-10 w-10 object-contain" />
+          <img src="/media/images/8f556e5fe83c0607.png" alt="Davy Do Nothing" className="h-[60px] w-[60px] object-contain" />
         </Link>
 
         <nav className="hidden items-center gap-1 md:flex" aria-label="Main">

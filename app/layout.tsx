@@ -18,7 +18,14 @@ export const metadata: Metadata = {
   openGraph: {
     siteName: "Davy Do Nothing",
     type: "website",
-    images: ["/media/images/0c7eeca179d357f5.png"],
+    images: [
+      {
+        url: "/media/images/og-davy-black.png",
+        width: 1200,
+        height: 630,
+        alt: "Davy Do Nothing",
+      },
+    ],
   },
   twitter: { card: "summary_large_image" },
 };
